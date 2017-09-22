@@ -9,3 +9,5 @@ https://www.cbsnews.com/news/collusion-network-facebook-flaw-leads-to-millions-o
 http://www.politico.com/magazine/story/2017/09/08/how-facebook-changed-the-spy-game-215587?utm_content=buffer5ce70&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 
 https://arstechnica.com/tech-policy/2017/09/facebook-revamps-political-ad-rules-after-discovering-russian-ad-buys/
+
+https://www.wired.com/story/to-fix-its-toxic-ad-problem-facebook-must-break-itself?mbid=nl_091817_daily&CNDID=%25%25CUST_ID%25%25
