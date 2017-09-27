@@ -11,3 +11,5 @@ http://www.politico.com/magazine/story/2017/09/08/how-facebook-changed-the-spy-g
 https://arstechnica.com/tech-policy/2017/09/facebook-revamps-political-ad-rules-after-discovering-russian-ad-buys/
 
 https://www.wired.com/story/to-fix-its-toxic-ad-problem-facebook-must-break-itself?mbid=nl_091817_daily&CNDID=%25%25CUST_ID%25%25
+
+https://www.wired.com/story/facebook-can-absolutely-control-its-algorithm?mbid=nl_092617_daily&CNDID=%25%25CUST_ID%25%25
