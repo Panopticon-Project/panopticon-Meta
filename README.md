@@ -17,3 +17,5 @@ https://www.wired.com/story/facebook-can-absolutely-control-its-algorithm?mbid=n
 https://www.washingtonpost.com/business/economy/obama-tried-to-give-zuckerberg-a-wake-up-call-over-fake-news-on-facebook/2017/09/24/15d19b12-ddac-4ad5-ac6e-ef909e1c1284_story.html
 
 https://arstechnica.com/tech-policy/2017/10/facebook-execs-are-talking-about-russian-ads-but-theyre-not-saying-much/
+
+https://www.wired.com/story/facebook-quietly-enters-starcraft-war-for-ai-bots-and-loses?mbid=nl_100917_daily
