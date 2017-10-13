@@ -15,3 +15,5 @@ https://www.wired.com/story/to-fix-its-toxic-ad-problem-facebook-must-break-itse
 https://www.wired.com/story/facebook-can-absolutely-control-its-algorithm?mbid=nl_092617_daily&CNDID=%25%25CUST_ID%25%25
 
 https://www.washingtonpost.com/business/economy/obama-tried-to-give-zuckerberg-a-wake-up-call-over-fake-news-on-facebook/2017/09/24/15d19b12-ddac-4ad5-ac6e-ef909e1c1284_story.html
+
+https://arstechnica.com/tech-policy/2017/10/facebook-execs-are-talking-about-russian-ads-but-theyre-not-saying-much/
