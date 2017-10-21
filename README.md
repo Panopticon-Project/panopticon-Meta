@@ -21,3 +21,5 @@ https://arstechnica.com/tech-policy/2017/10/facebook-execs-are-talking-about-rus
 https://www.wired.com/story/facebook-quietly-enters-starcraft-war-for-ai-bots-and-loses?mbid=nl_100917_daily
 
 https://arstechnica.com/tech-policy/2017/10/report-facebook-cut-russia-references-from-report-on-disinformation/
+
+https://www.wired.com/story/russias-facebook-ads-will-remain-secret-for-now/?mbid=nl_100417_daily
