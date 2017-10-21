@@ -19,3 +19,5 @@ https://www.washingtonpost.com/business/economy/obama-tried-to-give-zuckerberg-a
 https://arstechnica.com/tech-policy/2017/10/facebook-execs-are-talking-about-russian-ads-but-theyre-not-saying-much/
 
 https://www.wired.com/story/facebook-quietly-enters-starcraft-war-for-ai-bots-and-loses?mbid=nl_100917_daily
+
+https://arstechnica.com/tech-policy/2017/10/report-facebook-cut-russia-references-from-report-on-disinformation/
