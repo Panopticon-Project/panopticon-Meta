@@ -25,3 +25,5 @@ https://arstechnica.com/tech-policy/2017/10/report-facebook-cut-russia-reference
 https://www.wired.com/story/russias-facebook-ads-will-remain-secret-for-now/?mbid=nl_100417_daily
 
 https://www.washingtonpost.com/business/economy/obama-tried-to-give-zuckerberg-a-wake-up-call-over-fake-news-on-facebook/2017/09/24/15d19b12-ddac-4ad5-ac6e-ef909e1c1284_story.html
+
+http://www.securityweek.com/facebook-launches-new-anti-phishing-feature
