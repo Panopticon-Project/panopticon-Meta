@@ -27,3 +27,5 @@ https://www.wired.com/story/russias-facebook-ads-will-remain-secret-for-now/?mbi
 https://www.washingtonpost.com/business/economy/obama-tried-to-give-zuckerberg-a-wake-up-call-over-fake-news-on-facebook/2017/09/24/15d19b12-ddac-4ad5-ac6e-ef909e1c1284_story.html
 
 http://www.securityweek.com/facebook-launches-new-anti-phishing-feature
+
+https://www.wired.com/story/facebook-will-find-your-face-even-when-its-not-tagged/?mbid=nl_122017_daily_list3_p2
