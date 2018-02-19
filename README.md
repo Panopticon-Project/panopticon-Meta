@@ -31,3 +31,5 @@ http://www.securityweek.com/facebook-launches-new-anti-phishing-feature
 https://www.wired.com/story/facebook-will-find-your-face-even-when-its-not-tagged/?mbid=nl_122017_daily_list3_p2
 
 https://www.wired.com/story/robert-mueller-russia-investigation-facebook/?mbid=nl_012718_daily_shortdek_list1_p3
+
+https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/?mbid=social_twitter
