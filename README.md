@@ -33,3 +33,5 @@ https://www.wired.com/story/facebook-will-find-your-face-even-when-its-not-tagge
 https://www.wired.com/story/robert-mueller-russia-investigation-facebook/?mbid=nl_012718_daily_shortdek_list1_p3
 
 https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/?mbid=social_twitter
+
+https://www.wired.com/story/facebook-trump-clinton-campaign-ad-cpms/
