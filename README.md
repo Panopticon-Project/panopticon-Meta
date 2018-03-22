@@ -35,3 +35,5 @@ https://www.wired.com/story/robert-mueller-russia-investigation-facebook/?mbid=n
 https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/?mbid=social_twitter
 
 https://www.wired.com/story/facebook-trump-clinton-campaign-ad-cpms/
+
+https://www.wired.com/story/facebook-cambridge-analytica-response/?CNDID=50740756&mbid=nl_032118_daily_list1_p4
