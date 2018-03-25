@@ -39,3 +39,5 @@ https://www.wired.com/story/facebook-trump-clinton-campaign-ad-cpms/
 https://www.wired.com/story/facebook-cambridge-analytica-response/?CNDID=50740756&mbid=nl_032118_daily_list1_p4
 
 https://www.wired.com/story/mark-zuckerberg-statement-cambridge-analytica/?CNDID=50740756&mbid=nl_032118_daily_list3_p1
+
+https://www.wired.com/story/facebook-privacy-transparency-cambridge-analytica/?CNDID=50740756&mbid=nl_032018_daily_list3_p2
