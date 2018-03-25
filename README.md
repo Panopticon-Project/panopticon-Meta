@@ -41,3 +41,29 @@ https://www.wired.com/story/facebook-cambridge-analytica-response/?CNDID=5074075
 https://www.wired.com/story/mark-zuckerberg-statement-cambridge-analytica/?CNDID=50740756&mbid=nl_032118_daily_list3_p1
 
 https://www.wired.com/story/facebook-privacy-transparency-cambridge-analytica/?CNDID=50740756&mbid=nl_032018_daily_list3_p2
+
+·        Know what Facebook knows:
+
+o   Use a tool such as Data Selfie to generate a list of activity and analyse it, like Facebook would.
+
+o   Tool does not record any data, but provides insight into what Facebook could be crunching.
+
+·        Nudging how Facebook acts
+
+o   Facebook has never released how individual News Feeds are presented.
+
+o   MIT researcher has produced his own instructions on how to run a Facebook audit.
+
+o   https://medium.com/@natematias/how-anyone-can-audit-facebooks-newsfeed-b879c3e29015
+
+·        Seeing less of what Facebook servers you
+
+o   Remove metric information such as likes, reactions and posted date.
+
+o   Tool such as Demetricator.
+
+o   Reduces Facebooks ability to profile you and create a reliable portrait.
+
+ 
+
+https://www.fastcodesign.com/90164935/want-to-fight-back-against-facebooks-algorithm-check-out-these-tools
