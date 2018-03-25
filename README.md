@@ -73,3 +73,5 @@ https://www.wired.com/story/mark-zuckerberg-talks-to-wired-about-facebooks-priva
 https://www.wired.com/story/zuckerberg-speaks
 
 https://www.wired.com/story/mark-zuckerberg-trust-in-facebook
+
+https://www.securityweek.com/facebook-rocked-new-data-breach-scandal
