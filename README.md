@@ -67,3 +67,9 @@ o   Reduces Facebooks ability to profile you and create a reliable portrait.
  
 
 https://www.fastcodesign.com/90164935/want-to-fight-back-against-facebooks-algorithm-check-out-these-tools
+
+https://www.wired.com/story/mark-zuckerberg-talks-to-wired-about-facebooks-privacy-problem
+
+https://www.wired.com/story/zuckerberg-speaks
+
+https://www.wired.com/story/mark-zuckerberg-trust-in-facebook
