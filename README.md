@@ -77,3 +77,5 @@ https://www.wired.com/story/mark-zuckerberg-trust-in-facebook
 https://www.securityweek.com/facebook-rocked-new-data-breach-scandal
 
 https://www.darkreading.com/endpoint/privacy/facebook-adds-machine-learning-to-fraud-fight/d/d-id/1331367?elq_mid=84018&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180327&cid=NL_DR_EDT_DR_daily_20180327&elqTrackId=b30c2cfb9cf7447bb511f0d7983d2106&elq=013e32596b484306a4fefa6404f541e7&elqaid=84018&elqat=1&elqCampaignId=30207
+
+https://www.securityweek.com/facebook-admits-tracking-non-users-across-internet
