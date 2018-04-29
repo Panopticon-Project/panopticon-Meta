@@ -81,3 +81,5 @@ https://www.darkreading.com/endpoint/privacy/facebook-adds-machine-learning-to-f
 https://www.securityweek.com/facebook-admits-tracking-non-users-across-internet
 
 https://www.wired.com/story/facebook-is-steering-users-away-from-privacy-protections/
+
+http://thehill.com/policy/cybersecurity/382298-facebook-shut-down-accounts-linked-to-russian-intelligence-in-summer
