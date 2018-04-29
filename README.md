@@ -83,3 +83,5 @@ https://www.securityweek.com/facebook-admits-tracking-non-users-across-internet
 https://www.wired.com/story/facebook-is-steering-users-away-from-privacy-protections/
 
 http://thehill.com/policy/cybersecurity/382298-facebook-shut-down-accounts-linked-to-russian-intelligence-in-summer
+
+https://www.wired.com/story/whats-not-included-in-facebooks-download-your-data?mbid=nl_042317_daily_list1_p4&CNDID=50740756
