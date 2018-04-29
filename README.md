@@ -85,3 +85,5 @@ https://www.wired.com/story/facebook-is-steering-users-away-from-privacy-protect
 http://thehill.com/policy/cybersecurity/382298-facebook-shut-down-accounts-linked-to-russian-intelligence-in-summer
 
 https://www.wired.com/story/whats-not-included-in-facebooks-download-your-data?mbid=nl_042317_daily_list1_p4&CNDID=50740756
+
+https://www.darkreading.com/attacks-breaches/facebook-removes-russia-based-internet-research-agency-controlled-pages-/d/d-id/1331449?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple 
