@@ -89,3 +89,5 @@ https://www.wired.com/story/whats-not-included-in-facebooks-download-your-data?m
 https://www.darkreading.com/attacks-breaches/facebook-removes-russia-based-internet-research-agency-controlled-pages-/d/d-id/1331449?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple 
 
 https://www.wired.com/story/facebook-dating-hinge-app/?CNDID=50740756&mbid=nl_050518_daily_list3_p1
+
+https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/?CNDID=50740756&mbid=nl_050918_daily_list1_p2
