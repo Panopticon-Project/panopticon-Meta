@@ -93,3 +93,5 @@ https://www.wired.com/story/facebook-dating-hinge-app/?CNDID=50740756&mbid=nl_05
 https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/?CNDID=50740756&mbid=nl_050918_daily_list1_p2
 
 https://www.wired.com/story/facebook-funds-its-favorite-experts-but-skirts-tough-critics/
+
+https://www.wired.com/story/jihadi-content-still-on-facebook-google/?CNDID=50740756&mbid=nl_051918_daily_list1_p3
