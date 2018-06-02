@@ -95,3 +95,5 @@ https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/?CND
 https://www.wired.com/story/facebook-funds-its-favorite-experts-but-skirts-tough-critics/
 
 https://www.wired.com/story/jihadi-content-still-on-facebook-google/?CNDID=50740756&mbid=nl_051918_daily_list1_p3
+
+https://motherboard.vice.com/en_us/article/mbk7ky/leaked-facebook-neo-nazi-policies-white-supremacy-nationalism-separatism
