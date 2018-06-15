@@ -99,3 +99,5 @@ https://www.wired.com/story/jihadi-content-still-on-facebook-google/?CNDID=50740
 https://motherboard.vice.com/en_us/article/mbk7ky/leaked-facebook-neo-nazi-policies-white-supremacy-nationalism-separatism
 
 https://www.securityweek.com/facebook-deals-chinese-firm-draw-ire-us-lawmakers
+
+https://www.securityweek.com/facebook-claims-99-extremist-content-removed-without-users-help
