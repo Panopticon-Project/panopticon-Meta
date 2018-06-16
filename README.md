@@ -101,3 +101,5 @@ https://motherboard.vice.com/en_us/article/mbk7ky/leaked-facebook-neo-nazi-polic
 https://www.securityweek.com/facebook-deals-chinese-firm-draw-ire-us-lawmakers
 
 https://www.securityweek.com/facebook-claims-99-extremist-content-removed-without-users-help
+
+https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/?CNDID=53659400&mbid=nl_060518_daily_list3_p3
