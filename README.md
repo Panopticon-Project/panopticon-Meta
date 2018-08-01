@@ -105,3 +105,5 @@ https://www.securityweek.com/facebook-claims-99-extremist-content-removed-withou
 https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-trouble/?CNDID=53659400&mbid=nl_060518_daily_list3_p3
 
 https://www.wired.com/story/facebook-gave-russian-internet-giant-special-data-extension/?CNDID=53659400&mbid=nl_071118_daily_list3_p2
+
+https://www.wired.com/story/facebook-uncovers-new-fake-accounts-ahead-of-midterm-elections?mbid=nl_080118_daily_list1_p2&CNDID=53659400
