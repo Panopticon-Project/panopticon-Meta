@@ -107,3 +107,5 @@ https://www.wired.com/story/a-new-privacy-problem-could-deepen-facebooks-legal-t
 https://www.wired.com/story/facebook-gave-russian-internet-giant-special-data-extension/?CNDID=53659400&mbid=nl_071118_daily_list3_p2
 
 https://www.wired.com/story/facebook-uncovers-new-fake-accounts-ahead-of-midterm-elections?mbid=nl_080118_daily_list1_p2&CNDID=53659400
+
+https://www.securityweek.com/facebook-uncovers-political-influence-campaign-ahead-midterms
