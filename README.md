@@ -109,3 +109,5 @@ https://www.wired.com/story/facebook-gave-russian-internet-giant-special-data-ex
 https://www.wired.com/story/facebook-uncovers-new-fake-accounts-ahead-of-midterm-elections?mbid=nl_080118_daily_list1_p2&CNDID=53659400
 
 https://www.securityweek.com/facebook-uncovers-political-influence-campaign-ahead-midterms
+
+https://www.securityweek.com/facebook-asks-big-banks-share-customer-details
