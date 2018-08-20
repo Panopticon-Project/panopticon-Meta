@@ -111,3 +111,5 @@ https://www.wired.com/story/facebook-uncovers-new-fake-accounts-ahead-of-midterm
 https://www.securityweek.com/facebook-uncovers-political-influence-campaign-ahead-midterms
 
 https://www.securityweek.com/facebook-asks-big-banks-share-customer-details
+
+https://www.wired.com/story/facebook-enlists-dfrlab-track-trolls/?CNDID=53659400&mbid=nl_081918_daily_leadposition4__list1_p3
