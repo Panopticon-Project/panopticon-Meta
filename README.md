@@ -115,3 +115,5 @@ https://www.securityweek.com/facebook-asks-big-banks-share-customer-details
 https://www.wired.com/story/facebook-enlists-dfrlab-track-trolls/?CNDID=53659400&mbid=nl_081918_daily_leadposition4__list1_p3
 
 https://www.wired.com/story/facebook-twitter-eye-iran-fake-account-crackdown?mbid=nl_082218_daily_list3_p2&CNDID=53659400
+
+https://www.securityweek.com/facebook-stops-misinformation-campaigns-tied-iran-russia
