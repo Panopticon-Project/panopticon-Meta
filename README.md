@@ -117,3 +117,5 @@ https://www.wired.com/story/facebook-enlists-dfrlab-track-trolls/?CNDID=53659400
 https://www.wired.com/story/facebook-twitter-eye-iran-fake-account-crackdown?mbid=nl_082218_daily_list3_p2&CNDID=53659400
 
 https://www.securityweek.com/facebook-stops-misinformation-campaigns-tied-iran-russia
+
+https://www.securityweek.com/facebook-pulls-security-app-apple-store-over-privacy
