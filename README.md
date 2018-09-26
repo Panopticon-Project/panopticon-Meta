@@ -119,3 +119,5 @@ https://www.wired.com/story/facebook-twitter-eye-iran-fake-account-crackdown?mbi
 https://www.securityweek.com/facebook-stops-misinformation-campaigns-tied-iran-russia
 
 https://www.securityweek.com/facebook-pulls-security-app-apple-store-over-privacy
+
+https://www.securityweek.com/facebook-building-war-room-battle-election-meddling
