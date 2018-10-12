@@ -121,3 +121,5 @@ https://www.securityweek.com/facebook-stops-misinformation-campaigns-tied-iran-r
 https://www.securityweek.com/facebook-pulls-security-app-apple-store-over-privacy
 
 https://www.securityweek.com/facebook-building-war-room-battle-election-meddling
+
+https://www.securityweek.com/facebook-purges-251-accounts-thwart-deception
