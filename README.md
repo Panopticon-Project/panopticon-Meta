@@ -125,3 +125,5 @@ https://www.securityweek.com/facebook-building-war-room-battle-election-meddling
 https://www.securityweek.com/facebook-purges-251-accounts-thwart-deception
 
 https://www.facebook.com/ads/archive/?active_status=all&ad_type=political_and_issue_ads&country=US
+
+https://www.securityweek.com/facebook-boosts-protections-political-candidates
