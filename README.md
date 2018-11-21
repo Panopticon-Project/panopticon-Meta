@@ -129,3 +129,5 @@ https://www.facebook.com/ads/archive/?active_status=all&ad_type=political_and_is
 https://www.securityweek.com/facebook-boosts-protections-political-candidates
 
 https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html
+
+https://www.securityweek.com/facebook-blocks-115-accounts-eve-us-election
