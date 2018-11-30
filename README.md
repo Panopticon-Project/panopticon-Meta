@@ -131,3 +131,5 @@ https://www.securityweek.com/facebook-boosts-protections-political-candidates
 https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html
 
 https://www.securityweek.com/facebook-blocks-115-accounts-eve-us-election
+
+https://www.securityweek.com/facebook-knew-about-russian-activity-2014-british-mp
