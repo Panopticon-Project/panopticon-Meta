@@ -133,3 +133,5 @@ https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-raci
 https://www.securityweek.com/facebook-blocks-115-accounts-eve-us-election
 
 https://www.securityweek.com/facebook-knew-about-russian-activity-2014-british-mp
+
+https://www.securityweek.com/facebook-emails-show-how-it-sought-leverage-user-data
