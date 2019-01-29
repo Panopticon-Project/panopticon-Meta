@@ -135,3 +135,5 @@ https://www.securityweek.com/facebook-blocks-115-accounts-eve-us-election
 https://www.securityweek.com/facebook-knew-about-russian-activity-2014-british-mp
 
 https://www.securityweek.com/facebook-emails-show-how-it-sought-leverage-user-data
+
+https://www.youtube.com/watch?v=UWBNfvMAP8A
