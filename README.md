@@ -137,3 +137,5 @@ https://www.securityweek.com/facebook-knew-about-russian-activity-2014-british-m
 https://www.securityweek.com/facebook-emails-show-how-it-sought-leverage-user-data
 
 https://www.youtube.com/watch?v=UWBNfvMAP8A
+
+https://www.wired.com/story/facebook-anti-vaccine-crack-down/
