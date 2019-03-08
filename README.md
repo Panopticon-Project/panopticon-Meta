@@ -136,6 +136,9 @@ https://www.securityweek.com/facebook-knew-about-russian-activity-2014-british-m
 
 https://www.securityweek.com/facebook-emails-show-how-it-sought-leverage-user-data
 
+https://medium.com/dfrlab/exclusive-facebook-takes-down-fake-network-in-the-united-kingdom-58350e0f3401
 https://www.youtube.com/watch?v=UWBNfvMAP8A
 
 https://www.wired.com/story/facebook-anti-vaccine-crack-down/
+
+https://medium.com/dfrlab/exclusive-facebook-takes-down-fake-network-in-romania-20c33591b4ea
