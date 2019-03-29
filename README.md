@@ -144,3 +144,5 @@ https://www.wired.com/story/facebook-anti-vaccine-crack-down/
 https://medium.com/dfrlab/exclusive-facebook-takes-down-fake-network-in-romania-20c33591b4ea
 
 https://medium.com/dfrlab/exclusive-facebook-takes-down-fake-network-in-the-united-kingdom-58350e0f3401
+
+https://www.securityweek.com/facebook-blocks-more-accounts-over-influence-campaigns
