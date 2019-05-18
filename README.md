@@ -146,3 +146,5 @@ https://medium.com/dfrlab/exclusive-facebook-takes-down-fake-network-in-romania-
 https://medium.com/dfrlab/exclusive-facebook-takes-down-fake-network-in-the-united-kingdom-58350e0f3401
 
 https://www.securityweek.com/facebook-blocks-more-accounts-over-influence-campaigns
+
+https://www.securityweek.com/whistleblower-says-facebook-generating-terror-content
