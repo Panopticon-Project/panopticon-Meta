@@ -148,3 +148,5 @@ https://medium.com/dfrlab/exclusive-facebook-takes-down-fake-network-in-the-unit
 https://www.securityweek.com/facebook-blocks-more-accounts-over-influence-campaigns
 
 https://www.securityweek.com/whistleblower-says-facebook-generating-terror-content
+
+https://www.securityweek.com/facebook-nixes-billions-fake-accounts
