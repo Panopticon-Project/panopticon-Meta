@@ -150,3 +150,5 @@ https://www.securityweek.com/facebook-blocks-more-accounts-over-influence-campai
 https://www.securityweek.com/whistleblower-says-facebook-generating-terror-content
 
 https://www.securityweek.com/facebook-nixes-billions-fake-accounts
+
+https://www.securityweek.com/facebook-removes-more-state-linked-misleading-accounts
