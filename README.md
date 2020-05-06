@@ -152,3 +152,5 @@ https://www.securityweek.com/whistleblower-says-facebook-generating-terror-conte
 https://www.securityweek.com/facebook-nixes-billions-fake-accounts
 
 https://www.securityweek.com/facebook-removes-more-state-linked-misleading-accounts
+
+https://www.securityweek.com/twitter-facebook-target-state-linked-accounts-made-manipulate
