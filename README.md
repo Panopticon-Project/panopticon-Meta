@@ -156,3 +156,5 @@ https://www.securityweek.com/facebook-removes-more-state-linked-misleading-accou
 https://www.securityweek.com/twitter-facebook-target-state-linked-accounts-made-manipulate
 
 https://www.securityweek.com/facebook-removes-14-networks-fueling-deceptive-campaigns
+
+https://www.securityweek.com/facebook-adapts-defenses-deception-campaigns-go-stealth
