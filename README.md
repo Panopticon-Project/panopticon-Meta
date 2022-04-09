@@ -158,3 +158,5 @@ https://www.securityweek.com/twitter-facebook-target-state-linked-accounts-made-
 https://www.securityweek.com/facebook-removes-14-networks-fueling-deceptive-campaigns
 
 https://www.securityweek.com/facebook-adapts-defenses-deception-campaigns-go-stealth
+
+https://about.fb.com/wp-content/uploads/2022/04/Meta-Quarterly-Adversarial-Threat-Report_Q1-2022.pdf
