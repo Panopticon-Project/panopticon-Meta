@@ -160,3 +160,5 @@ https://www.securityweek.com/facebook-removes-14-networks-fueling-deceptive-camp
 https://www.securityweek.com/facebook-adapts-defenses-deception-campaigns-go-stealth
 
 https://about.fb.com/wp-content/uploads/2022/04/Meta-Quarterly-Adversarial-Threat-Report_Q1-2022.pdf
+
+https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/
