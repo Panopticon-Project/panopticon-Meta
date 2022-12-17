@@ -164,3 +164,5 @@ https://about.fb.com/wp-content/uploads/2022/04/Meta-Quarterly-Adversarial-Threa
 https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/
 
 https://about.fb.com/news/2022/12/metas-2022-coordinated-inauthentic-behavior-enforcements/
+
+https://about.fb.com/wp-content/uploads/2022/12/Threat-Report-on-the-Surveillance-for-Hire-Industry.pdf
